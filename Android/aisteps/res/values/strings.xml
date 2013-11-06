@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">aisteps</string>
+    <string name="urlnotnull">Target URL cannot be Null .</string>
+    <string name="authorityprovider">com.aisteps.model.DataBaseProvider</string>
+    <string name="savetodisk">Save To Disk</string>
+    <string name="browseimage">Browse</string>
+    <string name="title_activity_browser">BrowserActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
